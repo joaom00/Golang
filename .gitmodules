@@ -1,3 +1,6 @@
 [submodule "golang-cod3r"]
 	path = golang-cod3r
 	url = git@github.com:joaom00/golang-cod3r.git
+[submodule "gh-discussion"]
+	path = gh-discussion
+	url = git@github.com:joaom00/gh-discussion
