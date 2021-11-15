@@ -4,3 +4,6 @@
 [submodule "gh-discussion"]
 	path = gh-discussion
 	url = git@github.com:joaom00/gh-discussion
+[submodule "botgo"]
+	path = botgo
+	url = git@github.com:joaom00/botgo.git
